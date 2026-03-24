@@ -1,5 +1,5 @@
 -----
 
-![banner](images/github-header-banner.png)  
+![banner](gif/github-header-banner.png)  
 
 -----  
