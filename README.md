@@ -24,15 +24,13 @@
 
 <li>Além da parte técnica, também gosto muito de contribuir com a comunidade acadêmica.</li>
 
-<li>Meus hobbies são leitura, jogos,  e assistir a jogos do Botafog.</li>
+<li>Meus hobbies são leitura, jogos,  e assistir a jogos do Botafogo.</li>
 
-<li>Cinemáticamente falando, gosto de "Piratas do Caribe", "Percy Jackson" e "HunterxHunter".</li>
-
-<li>Adoro ajudar as pessoas! 💙</li>
+<li>Cinemáticamente falando, gosto de "Piratas do Caribe", "Senhor dos Aneis" e "Warhammer 40k".</li>
 
 <li>📬 Se quiser conversar ou colaborar, você pode me encontrar pelo 
-<a href="mailto:anacslorens1201@gmail.com">e-mail pessoal</a> ou 
-<a href="mailto:analorensdev@gmail.com">e-mail profissional</a>.</li>
+<a href="rafa25claudino@gmail.com">e-mail pessoal</a> ou 
+<a href="rafaclaudino115@gmail.com">e-mail profissional</a>.</li>
 </ul>
 
 </td>
