@@ -39,7 +39,7 @@
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://github.com/analorens/analorens/blob/main/imgs/lorens.png?raw=true" width="100%"/>
+<img src="gif/alucard-castlevania.gif?raw=true" width="100%"/>
 
 </td>
 
